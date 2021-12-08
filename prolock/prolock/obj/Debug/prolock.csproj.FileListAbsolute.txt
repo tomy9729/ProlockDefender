@@ -1,0 +1,11 @@
+C:\Users\면수\source\repos\prolock\prolock\bin\Debug\prolock.exe.config
+C:\Users\면수\source\repos\prolock\prolock\bin\Debug\prolock.exe
+C:\Users\면수\source\repos\prolock\prolock\bin\Debug\prolock.pdb
+C:\Users\면수\source\repos\prolock\prolock\obj\Debug\prolock.Properties.Resources.resources
+C:\Users\면수\source\repos\prolock\prolock\obj\Debug\prolock.csproj.GenerateResource.cache
+C:\Users\면수\source\repos\prolock\prolock\obj\Debug\prolock.csproj.CoreCompileInputs.cache
+C:\Users\면수\source\repos\prolock\prolock\obj\Debug\prolock.exe
+C:\Users\면수\source\repos\prolock\prolock\obj\Debug\prolock.pdb
+C:\Users\면수\source\repos\prolock\prolock\obj\Debug\prolock.csprojAssemblyReference.cache
+C:\Users\면수\source\repos\prolock\prolock\obj\Debug\prolock.MainForm.resources
+C:\Users\면수\source\repos\prolock\prolock\obj\Debug\prolock.detecting.resources
